@@ -5,15 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="273ffda6-4635-4890-a41f-a1a6548c96e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/MovieService.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MovieService/MovieService.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/MovieService-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/MovieService-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/jib-cache/layers/296c2076ef1c69a3cc0a57e4bf73d170c8989caa6534b61485d5479dda9cc743/d2883b25e7a73649075c88c00548e4940308f4bf7f495dd1238497a01f0393ef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/jib-cache/layers/44dba58949affd203fae942ff96a630dcd6d5f6755a6be8e810c3c25364f57a0/1b736ac4b033392037d67cebfd1985d84102b57b45189508fd20c0ec5fff5d7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/jib-cache/layers/fffc65683d78a3fb3e6c514bacab0752e081a7d758265ea8627337f25afd6fd6/4d8042e6934abb9f363a2f8cd29d584a21920ce08465ee16c6b3f0777db7a23c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/jib-cache/selectors/aebfd064fe967feabd4c46a12151a54460e5b2589dd36070e960e365ef2fbf2f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/jib-cache/selectors/efb2810f732a2f5f45bff1d7123ec37259f3a06da6c9c00ae2bd27dfba526a71" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/jib-cache/selectors/f05ef49ca569760bb85d1ac48bc1c6cfec355cf211984c11cc39fc3c0be56f38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MovieService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MovieService/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/surefire-reports/TEST-com.spring5.movieservice.MovieServiceApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MovieService/target/surefire-reports/TEST-com.spring5.movieservice.MovieServiceApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/surefire-reports/com.spring5.movieservice.MovieServiceApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MovieService/target/surefire-reports/com.spring5.movieservice.MovieServiceApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MovieService/target/test-classes/com/spring5/movieservice/MovieServiceApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/MovieService/target/test-classes/com/spring5/movieservice/MovieServiceApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MovieService/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -23,22 +49,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "C:/Java-Projects/git",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java-Projects/git&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0b06a6fc506df42f07593c593e139e09&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +76,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661238993504</updated>
-      <workItem from="1661238994707" duration="194000" />
+      <workItem from="1661238994707" duration="2390000" />
+      <workItem from="1661242402009" duration="1049000" />
+      <workItem from="1661243870712" duration="151000" />
     </task>
     <servers />
   </component>
