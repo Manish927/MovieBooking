@@ -24,6 +24,12 @@ public class Event<K, T> {
         this.eventCreatedAt = ZonedDateTime.now();
     }
 
+    public Event(Type eventType, K key, T data) {
+        this.eventType  = eventType;
+        this.key = key;
+        this.data = data;
+        this.eventCreatedAt = ZonedDateTime.now();
+    }
     public Type getEventType() {
         return eventType;
     }
