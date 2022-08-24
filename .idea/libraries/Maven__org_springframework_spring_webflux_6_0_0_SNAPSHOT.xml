@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-webflux:6.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/6.0.0-SNAPSHOT/spring-webflux-6.0.0-20220824.152434-731.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/6.0.0-SNAPSHOT/spring-webflux-6.0.0-20220824.152434-731-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webflux/6.0.0-SNAPSHOT/spring-webflux-6.0.0-20220824.152434-731-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

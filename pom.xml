@@ -22,6 +22,7 @@
 
     <modules>
         <module>MovieService</module>
+        <module>SeatConfigService</module>
     </modules>
     <build>
         <plugins>

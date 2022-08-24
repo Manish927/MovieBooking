@@ -6,17 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SeatConfigService" />
         <module name="MovieService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MovieBooking" target="11" />
       <module name="MovieService" target="11" />
+      <module name="SeatConfigService" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="MovieService" options="-parameters" />
+      <module name="SeatConfigService" options="-parameters" />
     </option>
   </component>
 </project>
