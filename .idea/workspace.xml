@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="273ffda6-4635-4890-a41f-a1a6548c96e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/src/main/java/com/spring5/ticketbookingservice/TicketBookingServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicketBookingService/src/test/java/com/spring5/ticketbookingservice/TicketBookingServiceApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="UserService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring5.userservice.UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -116,7 +114,7 @@
       <workItem from="1661264820850" duration="4930000" />
       <workItem from="1661355769932" duration="1923000" />
       <workItem from="1661402716139" duration="1553000" />
-      <workItem from="1661941518319" duration="291000" />
+      <workItem from="1661941518319" duration="369000" />
     </task>
     <servers />
   </component>
