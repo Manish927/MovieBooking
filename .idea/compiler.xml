@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="MovieService" />
         <module name="SeatConfigService" />
         <module name="PaymentService" />
-        <module name="MovieService" />
+        <module name="TicketBookingService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="MovieService" target="11" />
       <module name="PaymentService" target="11" />
       <module name="SeatConfigService" target="11" />
+      <module name="TicketBookingService" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +25,7 @@
       <module name="MovieService" options="-parameters" />
       <module name="PaymentService" options="-parameters" />
       <module name="SeatConfigService" options="-parameters" />
+      <module name="TicketBookingService" options="-parameters" />
     </option>
   </component>
 </project>

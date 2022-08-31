@@ -9,23 +9,35 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.spring5</groupId>
-    <artifactId>MovieBooking</artifactId>
+    <artifactId>TicketBookingService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>MovieBooking</name>
-    <description>MovieBooking</description>
+    <name>TicketBookingService</name>
+    <description>TicketBookingService</description>
     <properties>
         <java.version>11</java.version>
-        <maven.build.timestamp.format>yyyy-MM-dd'T'HH:mm:ss'Z'</maven.build.timestamp.format>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-r2dbc</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-webflux</artifactId>
+        </dependency>
 
-    <packaging>pom</packaging>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>io.projectreactor</groupId>
+            <artifactId>reactor-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
-    <modules>
-        <module>MovieService</module>
-        <module>SeatConfigService</module>
-        <module>PaymentService</module>
-        <module>TicketBookingService</module>
-    </modules>
     <build>
         <plugins>
             <plugin>
